@@ -9,3 +9,5 @@ To set up the project, follow these steps:
 git clone https://github.com/yourusername/FinalPOE.git
 2. Open Visual studio
 3. Select Clone repository and use the the link provided above an clone
+## changes
+no major changes were made besides the comments and adding the readme file
